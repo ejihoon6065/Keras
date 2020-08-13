@@ -4,6 +4,7 @@
 [![KerasKorea](https://img.shields.io/badge/Community-KerasKorea-purple.svg)](https://www.facebook.com/groups/KerasKorea/)
 [![KerasKorea](https://img.shields.io/badge/2018-Contributhon-green.svg)](https://www.kosshackathon.kr/)
 
+### KerasKorea에서 참고하였습니다.
 
 # KEKOxTutorial 
 전 세계의 멋진 케라스 문서 및 튜토리얼을 한글화하여 케라스x코리아를 널리널리 이롭게합니다. 🇰🇷
