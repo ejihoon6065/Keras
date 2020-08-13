@@ -1,3 +1,6 @@
+# KerasKorea에서 참고했습니다. #
+
+
 ## 케라스로 설계한 GAN으로 이미지 흐림 제거 (GAN with Keras: Application to Image Deblurring)
 [원문 링크](https://blog.sicara.com/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5)
 > 이 글은 케라스 라이브러리를 이용해 이미지의 흐린부분을 없애주는 효과에 GAN을 적용해보는 튜토리얼입니다. 
