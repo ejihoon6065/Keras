@@ -1,4 +1,4 @@
-# KerasKorea에서 참고했습니다. #
+### KerasKorea에서 참고했습니다. #
 
 
 ## 케라스로 설계한 GAN으로 이미지 흐림 제거 (GAN with Keras: Application to Image Deblurring)
