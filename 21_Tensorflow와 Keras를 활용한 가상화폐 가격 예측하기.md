@@ -2,6 +2,8 @@
 [원문 링크](https://medium.com/@huangkh19951228/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a)
 > 이 튜토리얼은 Tensorflow와 Keras를 활용해서 가상화폐 가격을 예측해봅니다.
 
+### KerasKorea에서 참고하였습니다
+
 * Keras
 * CNN
 * LSTM, GRU
