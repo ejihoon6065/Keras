@@ -1,5 +1,8 @@
 ## Keras를 이용해 seq2seq를 10분안에 알려주기  
 원문 : [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+
+### KerasKorea에서 참고하였습니다
+
 > 본 문서는 케라스를 이용해 RNN(Recurrent Neural Networks)모델인 Seq2Seq를 10분 안에 알려주는 튜토리얼 한글 버전입니다. Seq2Seq의 의미부터 케라스를 이용한 모델 구현을 다루고 있으며 본 문서 대상자는 recurrent networks와 keras에 대한 경험이 있다는 가정하에 진행합니다.
 
 * Keras
