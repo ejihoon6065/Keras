@@ -1,3 +1,5 @@
+### KerasKorea에서 참고하였습니다.
+
 ## Neural Style Transfer : tf.keras와 eager execution를 이용한 딥러닝 미술 작품 만들기(Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution)
 [원문 링크](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
 > 이 글은 TensorFlow의 Raymond Yuan이 작성한 글로 tf.keras와 eager execution을 이용해 입력된 이미지를 특정 미술 작품의 스타일로 변화시키는 딥러닝 튜토리얼입니다.
