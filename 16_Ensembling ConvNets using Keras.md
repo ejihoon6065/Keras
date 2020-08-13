@@ -1,7 +1,7 @@
 ## Keras를 이용한 CNN Ensemble 기법 (Ensembling ConvNets using Keras)
 
 [원문 링크](https://towardsdatascience.com/ensembling-convnets-using-keras-237d429157eb)
-
+### KerasKorea에서 참고하였습니다.
 > 이 문서는 케라스를 활용하여 ConvNets 을 앙상블 하는 방법에 대하여 설명합니다.
 > 2018년 8월을 기준으로, 동작하지 않는 코드 부분을 동작하도록 조금 변형했기 때문에 원문의 코드와 일치하지 않을 수 있습니다. 본문 역시 그대로 번역한 것이 아닌 필요한 설명과 합쳐서 다시 쓴 글이기 때문에 원문과 다를 수 있습니다.
 > 원문에서 나온 코드들을 이해를 돕기 위해 jupyter notebook 파일을 첨부합니다.
