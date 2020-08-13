@@ -2,6 +2,8 @@
 
 원문: [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) by. François Chollet
 
+### KerasKorea에서 참고하였습니다
+
 > 이 글은 적은 양의 데이터를 가지고 강력한 이미지 분류 모델을 구축하는 방법을 소개합니다. 수백에서 수천 장 정도의 작은 데이터셋을 가지고도 강력한 성능을 낼 수 있는 모델을 만들어볼 것입니다.
 
 저희는 세 가지 방법을 다룰 것입니다.
